@@ -512,7 +512,7 @@ Here you'll find a collection of my projects in data analysis, machine learning,
   * Here I led weekly Programming sessions for 50+ students in a range of programming languages including Python, R, SQL and more.
 
 
-* **Developer Intern @ Risidio, London (Jan 2024 - Jun 2024)**  
+* **Developer  @ Risidio, London (Jan 2024 - Jun 2024)**  
   * Risido is a tech startup in London with a global client base.
   * Developed scalable software and web solutions, working with huge datasets to bring their own flagship 3D metaverse to life.
   * Built PowerPoint presentations to communicate findings to the CEO and 5+ dept., in non-technical, clear terms.
