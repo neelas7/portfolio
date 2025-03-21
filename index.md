@@ -523,7 +523,7 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 
 
 
-* **Data Engineer Intern @ Devsinc (Jul 2022 - Oct 2022)**  
+* **Software Engineer Intern @ Devsinc (Jul 2022 - Oct 2022)**  
   * Engineered a Python-based data retrieval & visualisation tool, optimizing retrieval from 20+ years of files
   * Achieved sub-0.5s query response times, allowing for rapid access to large datasets.
   * Optimized file parsing and indexing algorithms, reducing manual search effort by 70%.
