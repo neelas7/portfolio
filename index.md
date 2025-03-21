@@ -507,33 +507,38 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 
 ## Work Experience
 
-* **Chair @ Data Science at Brunel London (Feb 2024 - Dec 2024)**  
+* **President & Lead Developer @ Brunel Data Science, London (Sep 2023 - Dec 2024)**  
   * Data Science Society at Brunel is a Leading Tech organisation increasing data and tech literacy amongst students.
-  * Here I led weekly Programming sessions for 50+ students in a range of programming languages including Python, R, SQL and more.
+  * Implemented a Retrieval-Augmented Generation ETL pipeline leveraging Astra DB for vector-based storage.
+  * Engineered a Python web app using JavaScript & LLMs for real-time speech recognition with sub-1s latency.
+  * Led technical bootcamps for 80+ attendees per session on Python & SQL.
+
 
 
 * **Developer  @ Risidio, London (Jan 2024 - Jun 2024)**  
   * Risido is a tech startup in London with a global client base.
-  * Developed scalable software and web solutions, working with huge datasets to bring their own flagship 3D metaverse to life.
-  * Built PowerPoint presentations to communicate findings to the CEO and 5+ dept., in non-technical, clear terms.
+  * Integrated real-time analytics into the frontend, tracking user interactions to refine UX and feature adoption.
+  * Delivered directly to CEO, Stakeholders and 5+ departments on KPIs using  powerpoint presentations & Excel.
+  * Streamlined data-driven decision-making by reporting and analysis 3x with Agile methodologies.
 
 
-* **Data Engineer Intern @ Devsinc (Jul 2021 - Oct 2021)**  
-  * Designed an ETL pipeline to process ~10GB+ datasets from multiple sources (.txt, Excel .CSV). This reduced manual search time by 70%.
-  * Developed a data retrieval took using Python that searched for the data input by the user from a 20+ years of past records and returned the needed data. it also visualised the past data over a user entered time period.
+
+* **Data Engineer Intern @ Devsinc (Jul 2022 - Oct 2022)**  
+ * Engineered a Python-based data retrieval & visualisation tool, optimizing retrieval from 20+ years of files
+ * Achieved sub-0.5s query response times, allowing for rapid access to large datasets.
+ * Optimized file parsing and indexing algorithms, reducing manual search effort by 70%.
+ * Implemented a Python visualisation dashboard where users can visualise trends over custom time periods.
+
 
 
 ---
 
 ## Transferable Experience
 
-* **Founder and Chair | Brunel Data Science**  
-  Mentored 80+ students, led 5+ hackathons.  
-
-* **Tech Speaker | Innovia UK Women in STEM**  
+* **Tech Speaker Innovia UK Women in STEM**  
   Keynote Guest Speaker.    
 
-* **VP Robotics Society | A Levels - 2018**
+* **VP Robotics Society**
   Led a team of 40+ members on various robotics projects.
 
 
