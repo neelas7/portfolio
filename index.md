@@ -508,21 +508,17 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 ## Work Experience
 
 * **President & Lead Developer @ Brunel Data Science, London (Sep 2023 - Dec 2024)**  
-  * Data Science Society at Brunel is a Leading Tech organisation increasing data and tech literacy amongst students.
+  Data Science Society at Brunel is a Leading Tech organisation increasing data and tech literacy amongst students.
 
-**President & Lead Developer @ Brunel Data Science, London (Sep 2023 - Dec 2024)**  
-  * Half Full Studio is a global creative technology firm, delivering innovative digital solutions, with a strong focus on design, storytelling, and user-centric development.
+**Junior Software Engineer @ Half Full Studio (Jan 2023 - Aug 2023)**  
+  Half Full Studio is a global creative technology firm, delivering innovative digital solutions, with a strong focus on design, storytelling, and user-centric development.
 
 * **Developer  @ Risidio, London (Jan 2024 - Jun 2024)**  
-  * Risido is a tech startup in London with a global client base.
-
+  Risido is a tech startup in London with a global client base.
 
 
 * **Software Engineer Intern @ Devsinc (Jul 2022 - Oct 2022)**  
-  * Engineered a Python-based data retrieval & visualisation tool, optimizing retrieval from 20+ years of files
-  * Achieved sub-0.5s query response times, allowing for rapid access to large datasets.
-  * Optimized file parsing and indexing algorithms, reducing manual search effort by 70%.
-  * Implemented a Python visualisation dashboard where users can visualise trends over custom time periods.
+  Devsinc is a premier software firm and partners of Amazon, Google & more.
 
 
 
