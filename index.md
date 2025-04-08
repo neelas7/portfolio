@@ -507,16 +507,16 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 
 ## Work Experience
 
-**Developer @ Risidio, London (Jan 2024 - Jun 2024)**  
+**Developer @ Risidio, London (Jul 2024 - Jan 2024)**  
   Risido is a top-tier, London based IT firm with global clientele across 4 continents. 
   
- **President & Lead Developer @ Brunel Data Science, London (Sep 2023 - Dec 2024)**  
+ **President & Lead Developer @ Brunel Data Science, London (Dec 2024 - Sep 2023)**  
   Data Science Society at Brunel is a Leading Tech organisation increasing data and tech literacy amongst students.
 
- **Junior Software Engineer (Data Analytics) @ Half Full Studio (Jan 2023 - Aug 2023)**  
+ **Junior Software Engineer (Data Analytics) @ Half Full Studio (Jan 2024 - Jan 2023)**  
   Half Full Studio is a multinational creative technology firm, delivering innovative digital solutions, with a strong focus on design, storytelling, and user-centric development.
 
- **Software Engineer Intern @ Devsinc (Jul 2022 - Oct 2022)**  
+ **Software Engineer Intern @ Devsinc (Oct 2022 - Jul 2022)**  
   Devsinc is a premier software firm and partners of Amazon, Google & more.
 
 
