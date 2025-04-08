@@ -509,17 +509,12 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 
 * **President & Lead Developer @ Brunel Data Science, London (Sep 2023 - Dec 2024)**  
   * Data Science Society at Brunel is a Leading Tech organisation increasing data and tech literacy amongst students.
-  * Implemented a Retrieval-Augmented Generation ETL pipeline leveraging Astra DB for vector-based storage.
-  * Engineered a Python web app using JavaScript & LLMs for real-time speech recognition with sub-1s latency.
-  * Led technical bootcamps for 80+ attendees per session on Python & SQL.
 
-
+**President & Lead Developer @ Brunel Data Science, London (Sep 2023 - Dec 2024)**  
+  * Half Full Studio is a global creative technology firm, delivering innovative digital solutions, with a strong focus on design, storytelling, and user-centric development.
 
 * **Developer  @ Risidio, London (Jan 2024 - Jun 2024)**  
   * Risido is a tech startup in London with a global client base.
-  * Integrated real-time analytics into the frontend, tracking user interactions to refine UX and feature adoption.
-  * Delivered directly to CEO, Stakeholders and 5+ departments on KPIs using  powerpoint presentations & Excel.
-  * Streamlined data-driven decision-making by reporting and analysis 3x with Agile methodologies.
 
 
 
