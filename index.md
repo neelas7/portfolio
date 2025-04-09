@@ -579,24 +579,23 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 
 ---
 
-## Transferable Experience
+## Awards & Honours
 
-* **Tech Speaker Innovia UK Women in STEM**  
-  Keynote Guest Speaker.    
+* **Dean's Honour List** 
+  3.8/4 SGPA in Computer Science
 
-* **VP Robotics Society**
-  Led a team of 40+ members on various robotics projects.
-
+* **Dean's Leadership Medal** 
+  Built 12 Hand Gesture Controlled Robotic Vehicles
 
 ---
 
 ## Transferable Experience
 
-* **Dean's Honour List | FAST University** 
-  3.8/4 SGPA in Computer Science
+* **Tech Speaker Innovia UK Women in STEM**  
+  Keynote Guest Speaker.    
 
-* **Dean's Leadership Medal | A Levels, LGS School** 
-  Built 12 Hand Gesture Controlled Robots
+* **Actor, Dramatics**
+  3 Theatrical Performance for 5000+ audiences.
 
 
 ---
