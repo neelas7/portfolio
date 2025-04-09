@@ -402,7 +402,6 @@ table th {
 📍 London, United Kingdom
 
 Hey, I'm Zanjeel. I'm a data lover and I thrive on using data for building the most innovative and latest, modern technologies. 
-Here you'll find a collection of my projects in data analysis, machine learning, and artificial intelligence.
 
 ## Education
 
@@ -419,7 +418,7 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 * **Programming Languages**: Python, R, SQL, JavaScript, MATLAB
 * **Data Analysis**: Pandas, PySpark, NumPy, Matplotlib
 * **Machine Learning**: Scikit-learn, TensorFlow, Deep Learning
-* **Data Visualization**: Tableau, Power BI, Plotly, ggplot2 
+* **Data Visualization**: Tableau, Power BI, DAX Queries, ggplot2 
 * **AI/ML**: RAG, LLMs, Speech Recognition, APIs
 * **Tools**: Git, GitHub, VSCode, Google Cloud Platform
 
@@ -572,7 +571,7 @@ Here you'll find a collection of my projects in data analysis, machine learning,
  **Junior Software Engineer (Data Analytics) @ Half Full Studio (Jan 2024 - Jan 2023)**  
   Half Full Studio is a multinational creative technology firm, delivering innovative digital solutions, with a strong focus on design, storytelling, and user-centric development.
 
- **Software Engineer Intern @ Devsinc (Oct 2022 - Jul 2022)**  
+ **Engineer Intern @ Devsinc (Oct 2022 - Jul 2022)**  
   Devsinc is a premier software firm and partners of Amazon, Google & more.
 
 
