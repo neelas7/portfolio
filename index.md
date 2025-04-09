@@ -368,6 +368,33 @@ p, li {
 table th {
     text-align: center;
 }
+
+/* Add Power BI Dashboard styles */
+.powerbi-container {
+    width: 100%;
+    max-width: 1140px;
+    margin: 20px auto;
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+}
+
+.powerbi-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+/* Responsive adjustments for Power BI */
+@media screen and (max-width: 768px) {
+    .powerbi-container {
+        padding-bottom: 75%; /* Slightly taller on mobile */
+    }
+}
 </style>
 
 # Data Scientist & Analyst
@@ -503,6 +530,20 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 <hr class="project-separator">
 
 
+### 7. Power BI Dashboard
+<div class="powerbi-container">
+    <iframe title="pb1" src="https://app.powerbi.com/reportEmbed?reportId=5661aadc-38d8-47e1-a14d-f96850a7a6d0&autoAuth=true&ctid=4cad97b1-5935-4103-a866-57ad98a1517e" frameborder="0" allowFullScreen="true"></iframe>
+</div>
+
+* **Description**: Interactive Power BI dashboard showcasing data analytics and visualization capabilities.
+
+* **Skills**: Power BI, Data Visualization, Business Intelligence
+
+* **Key Features**: Interactive filters, real-time data updates, responsive design
+
+<hr class="project-separator">
+
+
 ---
 
 ## Work Experience
@@ -536,7 +577,7 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 
 ## Transferable Experience
 
-* **Dean’s Honour List | FAST University** 
+* **Dean's Honour List | FAST University** 
   3.8/4 SGPA in Computer Science
 
 * **Dean's Leadership Medal | A Levels, LGS School** 
