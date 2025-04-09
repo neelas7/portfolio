@@ -535,11 +535,11 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 
 <img src="./assets/img/Sales-PB.png"  alt="Adidas Insights Data Analysis">
 
-* **Description**: Interactive Power BI dashboard showcasing total flights, delays and satisfaction index of customers.
+* **Description**: Informative Power BI dashboard showcasing total revenue, sales and total products sold, which can be filtered by dynamic filters like profit per product and more.
 
-* **Skills**: Power BI, Data Visualization, Business Intelligence
+* **Skills**: Power BI, Profit Margin, Finance, Total Revenue,  Business Intelligence
 
-* **Key Features**: Interactive filters, real-time data updates, responsive design
+* **Key Features**: Dynamic filters, real-time data updates, Informative Visuals
 
 [Request Access](mailto:zanjeel123@gmail.com){: .project-button}
 
