@@ -500,26 +500,12 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 
 
 
-### 6. Tableau Dashboards
+### 6. Data Visualisation and Insights Dashboards
 
-#### Customer Insight Analysis
-<img src="./assets/img/Customers-Data-Insights-Dashboard.jpeg" class="project-image" alt="Customer Insights Data Analysis">
+#### Product Sales Insights
+<img src="./assets/img/tableau2.jpeg" class="project-image2" alt="Product Insights Data Analysis">
 
-* **Description**: Interactive dashboard analyzing customer behavior and insights with interactive filters to visualise data by sales, gender and more.
-
-* **Skills**: Tableau, Data Visualization, Business Analytics
-
-* **Key Features**: Interactive filters, customer segmentation, trend analysis
-
-[View Dashboard](https://public.tableau.com/app/profile/zanjeel.tariq.sahi/viz/CustomerInsightDataAnalysis/Dashboard){: .project-button}
-
-<hr class="project-separator">
-
-
-
-#### Adidas Sales Analysis
-<img src="./assets/img/tableau2.jpeg" class="project-image2" alt="Adidas Insights Data Analysis">
-* **Description**: Data analysis and visualisation of Adidas sales in the US with interactive filters like Profit margin, product and year.
+* **Description**: Data analysis and visualisation of product sales with interactive filters like Profit margin, product and year.
 
 * **Skills**: Tableau, Sales Analytics, Interactive Visualization
 
@@ -530,19 +516,48 @@ Here you'll find a collection of my projects in data analysis, machine learning,
 <hr class="project-separator">
 
 
-### 7. Power BI Dashboard
-<div class="powerbi-container">
-    <iframe title="pb1" src="https://app.powerbi.com/reportEmbed?reportId=5661aadc-38d8-47e1-a14d-f96850a7a6d0&autoAuth=true&ctid=4cad97b1-5935-4103-a866-57ad98a1517e" frameborder="0" allowFullScreen="true"></iframe>
-</div>
+### Airport Flight Perfomance Analysis and Insights - Power BI Dashboard
 
-* **Description**: Interactive Power BI dashboard showcasing data analytics and visualization capabilities.
+<img src="./assets/img/Airport-PB.png"  alt="Airport Insights Data Analysis">
+
+* **Description**: Interactive Power BI dashboard showcasing total flights, delays and satisfaction index of customers.
 
 * **Skills**: Power BI, Data Visualization, Business Intelligence
 
 * **Key Features**: Interactive filters, real-time data updates, responsive design
 
+[Request Access](mailto:zanjeel123@gmail.com){: .project-button}
+
 <hr class="project-separator">
 
+
+### Revenue and Profit Insights - Power BI Dashboard
+
+<img src="./assets/img/Sales-PB.png"  alt="Adidas Insights Data Analysis">
+
+* **Description**: Interactive Power BI dashboard showcasing total flights, delays and satisfaction index of customers.
+
+* **Skills**: Power BI, Data Visualization, Business Intelligence
+
+* **Key Features**: Interactive filters, real-time data updates, responsive design
+
+[Request Access](mailto:zanjeel123@gmail.com){: .project-button}
+
+<hr class="project-separator">
+
+
+#### Customer Insight Analysis
+<img src="./assets/img/Customer.png" alt="Customer Insights Data Analysis">
+
+* **Description**: Interactive dashboard analyzing customer behavior and insights with interactive filters to visualise data by sales, gender and more.
+
+* **Skills**: Tableau, Data Visualization, Business Analytics
+
+* **Key Features**: Interactive filters, customer segmentation, trend analysis
+
+[View Dashboard](https://public.tableau.com/app/profile/zanjeel.tariq.sahi/viz/CustomerInsightDataAnalysis/Dashboard){: .project-button}
+
+<hr class="project-separator">
 
 ---
 
