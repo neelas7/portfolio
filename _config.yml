@@ -1,13 +1,15 @@
-title: Zanjeel T. Sahi
-logo: /assets/img/logo.png
-name: Zanjeel T. Sahi
-site_title: Zanjeel T. Sahi
-description: View more Projects on my Github
+title: Neela S.
+logo: /assets/img/logo1.jpeg 
+name: Neela S.
+site_title: Neela S.
+description: Applied Math & Bioinformatics @ TAMU | Data Science + Genomics Projects
 show_downloads: false
-google_analytics:
+google_analytics: 
+
 theme: jekyll-theme-minimal
+
 github:
   is_user_page: true
-  owner_url: https://github.com/zanjeel
-  repository_url: https://github.com/zanjeel
-  repository_nwo: zanjeel
+  owner_url: https://github.com/neelas7
+  repository_url: https://github.com/neelas7/portfolio
+  repository_nwo: neelas7/portfolio

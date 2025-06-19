@@ -397,18 +397,17 @@ table th {
 }
 </style>
 
-# Data Scientist & Analyst
+# Aspiring Health Data Scientist & Bioinformatician
 
-📍 London, United Kingdom
+📍 United States
 
-Hey, I'm Zanjeel. I'm a data lover and I thrive on using data for building the most innovative and latest, modern technologies. 
+Hi, I’m Neela. I am a data enthusiast studying Applied Mathematics with a Bioinformatics minor at Texas A&M. I work at the intersection of math, biology, and tech, with experience in NGS data processing, differential expression analysis, and building custom Python/R pipelines. My focus is on data science, biostatistics, and healthcare equity. I plan to pursue a master’s in computational biology or bioinformatics to further this work.
 
 ## Education
 
 | Degree | Institution | Year |
 |:------:|:----------:|:----:|
-| MSc., Data Science & Analytics | Brunel University London | Dec 2024 |
-| BSc., Computer Science | FAST University | Sep 2023 |
+| BSc., Applied Mathematics (BIO); Bioinformatics Minor | Texas A&M University | May 2026 |
 
 
 
@@ -417,20 +416,20 @@ Hey, I'm Zanjeel. I'm a data lover and I thrive on using data for building the m
 
 * **Programming Languages**: Python, R, SQL, JavaScript, MATLAB
 * **Data Analysis**: Pandas, PySpark, NumPy, Matplotlib
-* **Machine Learning**: Scikit-learn, TensorFlow, Deep Learning
-* **Data Visualization**: Tableau, Power BI, DAX Queries, ggplot2 
-* **AI/ML**: RAG, LLMs, Speech Recognition, APIs
+* **Machine Learning**: Scikit-learn, TensorFlow
+* **Data Visualization**: Tableau, Power BI 
+* **AI/ML**: LLMs, Speech Recognition, APIs
 * **Tools**: Git, GitHub, VSCode, Google Cloud Platform
 
 ---
 
 ## Featured Projects
 
-### 1. Voice-to-Voice LLM Assistant
-<img src="./assets/img/Voice-LLM.jpeg" class="project-image" alt="Voice Assistant">
-* **Description**: A conversational AI assistant that uses speech-to-text and text-to-speech capabilities, powered by Python and Google's Gemini AI. Features real-time voice recording, processing, and witty responses in real time.
+### 1. Transcriptomic Analysis of Mouse Cancer Models
+<img src="./assets/img/dataviz.png" class="project-image" alt="Data Visualization">
+* **Description**: Analyzed long-read RNA sequencing data from tumor and control tissue samples in a mouse model to investigate cancer-associated transcriptomic changes. Focused on identifying alternative splicing events and novel isoforms. Performed basecalling, alignment, and isoform quantification using tools designed for long-read data, and compared expression profiles between conditions.
 
-* **Skills**: Python, Flask, React, Google Gemini AI, Speech Recognition, gTTS (Google Text to Speech)
+* **Skills**: Long-read RNA-Seq, ONT/Nanopore data, Minimap2, Bash scripting, UNIX, data visualization, biological interpretation
 
 * **Key Features**: Real-time voice processing, natural dialogue, witty responses, LLM
 
@@ -441,11 +440,10 @@ Hey, I'm Zanjeel. I'm a data lover and I thrive on using data for building the m
 
 
 
-### 2. Advanced ML for Prediction in Automotive Systems
-<img src="./assets/img/Data-Analysis-Using-Machine-Learning.jpeg" class="project-image" alt="Automobile Analysis">
-* **Description**: Predictive analysis of automobile data using RStudio, focusing on price prediction and market trends.
+### 2. Implication of circadian rhythms in the generation of RNAs isoforms
+* **Description**: Conducted differential gene expression analysis on RNA-Seq data from mouse tissue samples to study the molecular effects of arrhythmic versus non-rhythmic feeding conditions in cancer progression. Processed FASTQ files, performed quality control, aligned reads to the mouse genome using STAR, and quantified gene expression with featureCounts. Ongoing troubleshooting of module dependencies and batch scripting on the Grace HPRC cluster for scalable computing.
 
-* **Skills**: R, Regression, KNN, Decision Trees, Random Forests
+* **Skills**: RNA-Seq, Bash scripting, SLURM, HPC, STAR aligner, featureCounts, UNIX, Emacs, version control
 
 [View Live Project](https://zanjeel.github.io/Automobile-Predictive-Data-Analysis-RStudio/Automobile-Price-Prediction.nb.html){: .project-button} [View on GitHub](https://github.com/zanjeel/Automobile-Predictive-Data-Analysis-RStudio){: .github-button}
 
@@ -454,156 +452,22 @@ Hey, I'm Zanjeel. I'm a data lover and I thrive on using data for building the m
 
 
 
-### 3. Mould Prediction for Hillingdon Council
-<img src="./assets/img/Predictive-ML-Hillingdon-Council-UK.jpeg" class="project-image" alt="Weather Prediction">
-* **Description**: Machine learning-based Mould prediction system developed for Hillingdon Council, UK, using various ML algorithms.
+### 3. Luma – Social Book Ranking App (In Progress)
+* **Description**: Developing a minimalistic web-based platform that ranks books based on pairwise comparisons submitted by users, inspired by Beli’s food-ranking interface. Built a Google Sheets backend for initial data collection and is currently implementing sorting logic using Python and Elo rating algorithms. The system adjusts for skews and attempts to reflect individual taste consensus across users.
 
-* **Skills**: Python, Tensorflow, Google Cloud Platform, LSTM, CNN, XGBoost, Time Series
+* **Skills**: Python, Google Sheets, data sorting algorithms, user-centered design, creative UX prototyping, web development (in progress)
 
 * **Key Features**: Multiple ML models comparison, accurate mould forecasting, interactive visualizations
 
 [View Live Project](https://zanjeel.github.io/Weather-Prediction-MachineLearningAlgorithms-HillingdonCouncilUK/MachineLearningModelsforWeatherPrediction.html){: .project-button} [View on GitHub](https://github.com/zanjeel/Weather-Prediction-MachineLearningAlgorithms-HillingdonCouncilUK){: .github-button}
 
-<hr class="project-separator">
 
-
-
-
-### 4. RAG-NasaAI SpaceLovers
-<img src="./assets/img/NasaAI-proj-img.jpeg" class="project-image" alt="NASA AI">
-* **Description**: A Retrieval-Augmented Generation (RAG) powered by vector search and LLM reasoning, optimizing knowledge retrieval and conversational AI.
-
-* **Skills**: Astra DB, Google Gemini API, Web Scraping, RAG, AI/ML, API Integration
-
-* **Key Features**: Real-time space data retrieval, accurate space information, interactive Q&A interface
-
-[View Live Project](https://rag-nasaai-spacelovers.onrender.com){: .project-button} [View on GitHub](https://github.com/zanjeel/RAG-NasaAI-SpaceLovers){: .github-button} 
-
-<hr class="project-separator">
-
-
-
-
-### 5. DataAnalyserPro
-<img src="./assets/img/Data-Analytics-Pro.jpeg" class="project-image" alt="Data Analysis">
-* **Description**: A web-based data analysis tool that provides instant insights from Excel files without storing any data. Features rich visualizations and comprehensive statistics.
-
-* **Skills**: Excel, React, TypeScript, Tailwind CSS
-
-* **Key Features**: Privacy-first processing, rich visualizations, responsive design
-
-[View Live Project](https://data-analyser-pro.netlify.app){: .project-button} [View on GitHub](https://github.com/zanjeel/DataAnalyserPro){: .github-button}
-
-<hr class="project-separator">
-
-
-
-
-### 6. Data Visualisation and Insights Dashboards
-
-#### Product Sales Insights
-<img src="./assets/img/tableau2.jpeg" class="project-image2" alt="Product Insights Data Analysis">
-
-* **Description**: Data analysis and visualisation of product sales with interactive filters like Profit margin, product and year.
-
-* **Skills**: Tableau, Sales Analytics, Interactive Visualization
-
-* **Key Features**: Sales performance metrics, regional analysis, product category insights
-
-[View Dashboard](https://public.tableau.com/app/profile/zanjeel.tariq.sahi/viz/AdidasSalesAnalaysisUSwithInteractiveFiltersforDeeperInsights/Dashboard){: .project-button}
-
-<hr class="project-separator">
-
-
-### Airport Flight Perfomance Analysis and Insights - Power BI Dashboard
-
-<img src="./assets/img/Airport-PB.png"  alt="Airport Insights Data Analysis">
-
-* **Description**: Interactive Power BI dashboard showcasing total flights, delays and satisfaction index of customers.
-
-* **Skills**: Power BI, Data Visualization, Business Intelligence
-
-* **Key Features**: Interactive filters, real-time data updates, responsive design
-
-[Request Access](mailto:zanjeel123@gmail.com){: .project-button}
-
-<hr class="project-separator">
-
-
-### Revenue and Profit Insights - Power BI Dashboard
-
-<img src="./assets/img/Sales-PB.png"  alt="Adidas Insights Data Analysis">
-
-* **Description**: Informative Power BI dashboard showcasing total revenue, sales and total products sold, which can be filtered by dynamic filters like profit per product and more.
-
-* **Skills**: Power BI, Profit Margin, Finance, Total Revenue,  Business Intelligence
-
-* **Key Features**: Dynamic filters, real-time data updates, Informative Visuals
-
-[Request Access](mailto:zanjeel123@gmail.com){: .project-button}
-
-<hr class="project-separator">
-
-
-#### Customer Insight Analysis
-<img src="./assets/img/Customer.png" alt="Customer Insights Data Analysis">
-
-* **Description**: Interactive dashboard analyzing customer behavior and insights with interactive filters to visualise data by sales, gender and more.
-
-* **Skills**: Tableau, Data Visualization, Business Analytics
-
-* **Key Features**: Interactive filters, customer segmentation, trend analysis
-
-[View Dashboard](https://public.tableau.com/app/profile/zanjeel.tariq.sahi/viz/CustomerInsightDataAnalysis/Dashboard){: .project-button}
-
-<hr class="project-separator">
-
----
-
-## Work Experience
-
-**Developer @ Risidio, London (Jul 2024 - Jan 2024)**  
-  Risido is a top-tier, London based IT firm with global clientele across 4 continents. 
-  
- **President & Lead Developer @ Brunel Data Science, London (Dec 2024 - Sep 2023)**  
-  Data Science Society at Brunel is a Leading Tech organisation increasing data and tech literacy amongst students.
-
- **Junior Software Engineer (Data Analytics) @ Half Full Studio (Jan 2024 - Jan 2023)**  
-  Half Full Studio is a multinational creative technology firm, delivering innovative digital solutions, with a strong focus on design, storytelling, and user-centric development.
-
- **Engineer Intern @ Devsinc (Oct 2022 - Jul 2022)**  
-  Devsinc is a premier software firm and partners of Amazon, Google & more.
-
-
-
----
-
-## Awards & Honours
-
-* **Dean's Honour List** 
-  3.8/4 SGPA in Computer Science
-
-* **Dean's Leadership Medal** 
-  Built 12 Hand Gesture Controlled Robotic Vehicles
-
----
-
-## Transferable Experience
-
-* **Tech Speaker Innovia UK Women in STEM**  
-  Keynote Guest Speaker.    
-
-* **Actor, Dramatics**
-  3 Theatrical Performance for 5000+ audiences.
-
-
----
 
 ## Contact
 
-* **GitHub**: [https://github.com/zanjeel](https://github.com/zanjeel)
-* **LinkedIn**: [zanjeel-tariq-sahi](https://www.linkedin.com/in/zanjeel-tariq-sahi){:rel="noopener noreferrer"}
-* **Email**: zanjeel123@gmail.com
+* **GitHub**: [https://github.com/neelas7](https://github.com/neelas)
+* **LinkedIn**: [Neela-Sardeshpande](https://www.linkedin.com/in/neela-sardeshpande-785026222/){:rel="noopener noreferrer"}
+* **Email**: neelasardeshpande@gmail.com
 
 ---
 
